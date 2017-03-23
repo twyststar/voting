@@ -1,0 +1,16 @@
+#over, #under {
+  display: none;
+}
+img {
+  width: 100%;
+  height: auto;
+}
+
+body {
+  background-image: url("../img/booth.jpg");
+  background-size: contain;
+}
+
+#hide {
+  display: none;
+}
